@@ -3,7 +3,7 @@
 #
 #  starred_to_bookmarks.py
 #  
-#  Copyright 2013 Matthieu Baerts <matttbe@gmail.com>
+#  Copyright 2013 Matthieu Baerts <matttbe _@_ mail -> google>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
